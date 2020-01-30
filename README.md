@@ -6,4 +6,4 @@
   Webpack Exercícios
 </h2>
 
-Repositório para armazenar exercícios de fixação de pontos do Webpack.
+<p align="center">Repositório para armazenar exercícios de fixação de pontos do Webpack.</p>
